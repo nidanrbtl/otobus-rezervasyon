@@ -1,0 +1,17 @@
+# Derleme ciktilari
+otobus
+otobus.exe
+test_rezervasyon
+test_rezervasyon.exe
+*.o
+*.exe
+
+# Calisma sirasinda olusan kayit dosyasi (yolcu adlari icerir)
+rezervasyonlar.txt
+*.tmp
+
+# Dev-C++ / Windows
+*.dev
+*.layout
+desktop.ini
+Makefile.win
